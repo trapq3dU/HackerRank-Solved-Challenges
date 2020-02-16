@@ -10,7 +10,7 @@ import java.util.stream.*;
 import static java.util.stream.Collectors.joining;
 import static java.util.stream.Collectors.toList;
 
-public class Solution {
+public class Day_of_Programmer {
 
     // Complete the dayOfProgrammer function below.
     static String dayOfProgrammer(int year) {
